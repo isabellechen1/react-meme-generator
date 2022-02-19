@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-meme-generator/static/js/main.ee778242.js",
+    "index.html": "/react-meme-generator/index.html",
+    "main.ee778242.js.map": "/react-meme-generator/static/js/main.ee778242.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ee778242.js"
+  ]
+}
